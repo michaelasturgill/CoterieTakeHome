@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aFpA37wcISGR2CFz2aFoNX5mEowCKXvgpicV40dGvA1Qc1T/hHg6i9ptlD2zL0eOapfWd1A4YNelchgX0RTYgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sturg\\OneDrive\\Desktop\\CoterieTakeHome\\CoterieTakeHome\\CoterieTakeHome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sturg\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
